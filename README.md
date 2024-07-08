@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./exemplos/capa.png"
+    src="./exemplos/Capa.png"
     width="400"  
 />
 </p>
@@ -20,7 +20,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estrutur
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/jrobertovl/lab-natty-or-not/blob/main/exemplos/Ebook_Natty_DIO.pdf)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
@@ -36,14 +36,10 @@ Criar este e-book foi uma experiência reveladora sobre o potencial criativo das
     />
     <p>&nbsp&nbsp&nbspJosé Roberto Vasconcellos Lopes<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/jrobertovl">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-jrobertovl">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/jrobertovl/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
+    <a href="https://github.com/jrobertovl">GitHub</a>&nbsp;|&nbsp;
+    <a href="www.linkedin.com/in/jrobertovl">LinkedIn</a>&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/jrobertovl/">Instagram</a>&nbsp;|&nbsp;
+    <a href="https://api.whatsapp.com/send?phone=5591982003052">WhatsApp</a></p>
 </p>
 <br/><br/>
 <p>
